@@ -18,9 +18,9 @@ The purpose of this analysis is to .........
 
 - ..... 
 
-![alt text](https://github.com/coconnell022/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png?raw=true)
+![alt text](https://github.com/coconnell022/surfs_up/blob/main/Images/June_Temps.png?raw=true)
 
-![alt text](https://github.com/coconnell022/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibilty.png?raw=true)
+![alt text](https://github.com/coconnell022/surfs_up/blob/main/Images/Dec_Temps.png?raw=true)
 
 ## Summary
 
